@@ -1,4 +1,4 @@
-# Modern Portfolio Website
+![screenshot_f011](https://github.com/user-attachments/assets/50255f20-2115-4988-8fed-9353a9572410)# Modern Portfolio Website
 
 ![Portfolio Website Preview](screenshot_f011.png)
 
@@ -34,8 +34,7 @@ A professional, fully-responsive portfolio website for creative developers and d
 ```
 /
 ├── index.html          # Main single-page application
-├── README.md           # Project documentation (this file)
-├── YOUWARE.md          # Detailed technical documentation
+├── README.md           # Project documentation
 ├── sitemap.xml         # XML sitemap for SEO
 └── screenshot_f011.png # Project preview image
 ```
@@ -53,8 +52,8 @@ This is a static website with no build process required. To get it running local
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
-   cd portfolio-website
+   git clone <gtihub repo> 
+   cd Portfolio-for-Everyone
    ```
 
 2. **Open in a browser**
@@ -215,10 +214,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check issu
 
 ## 📧 Contact
 
-For any questions or support, please contact:
-- Email: your.email@example.com
-- Website: https://yourportfolio.com
-
----
-
-Made with ❤️ by [Your Name]
+Made with ❤️ by [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mxolisi-nkosi-b47b57117/)
