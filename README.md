@@ -1,4 +1,9 @@
-![screenshot_f011](https://github.com/user-attachments/assets/50255f20-2115-4988-8fed-9353a9572410)# Modern Portfolio Website
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+
+
+# Modern Portfolio Website
 
 ![Portfolio Website Preview](screenshot_f011.png)
 
